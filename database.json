@@ -1,0 +1,33 @@
+{
+  "member_ids": [
+    {
+      "id": "NZ001",
+      "status": "tersedia"
+    },
+    {
+      "id": "NZ002",
+      "status": "tersedia"
+    },
+    {
+      "id": "NZ003",
+      "status": "tersedia"
+    }
+  ],
+
+  "members": [],
+
+  "products": [],
+
+  "orders": [],
+
+  "sales": [],
+
+  "subscriptions": [],
+
+  "ranking": [],
+
+  "settings": {
+    "owner": "6285828169882",
+    "payment": "085828626140"
+  }
+}
